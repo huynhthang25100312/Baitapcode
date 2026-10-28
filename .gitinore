@@ -1,0 +1,12 @@
+# Bỏ qua tất cả file thực thi và file biên dịch trung gian
+*.exe
+*.out
+*.o
+*.obj
+
+# Bỏ qua thư mục cấu hình riêng của VS Code
+.vscode/
+
+# Bỏ qua thư mục tạm / build
+build/
+bin/
